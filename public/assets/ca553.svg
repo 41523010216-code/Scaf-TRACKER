@@ -1,0 +1,9 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="310" height="200" viewBox="0 0 310 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="chart-fill" d="M0 133.623C20 125.326 35 108.732 55 97.1163C70 88.8192 80 75.5439 100 63.928C115 53.9715 125 47.3338 140 34.0585C155 20.7832 165 14.1455 185 4.18902C200 -4.10806 215 0.870187 230 10.8267C245 20.7832 260 42.3556 280 63.928C292 78.8627 302 92.138 310 103.754V200H0V133.623Z" fill="url(#paint0_linear_0_27)"/>
+<defs>
+<linearGradient id="paint0_linear_0_27" x1="155" y1="5.83831e-08" x2="155" y2="200" gradientUnits="userSpaceOnUse">
+<stop stop-color="#176B57" stop-opacity="0.18"/>
+<stop offset="1" stop-color="#176B57" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

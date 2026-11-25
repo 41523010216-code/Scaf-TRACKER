@@ -1,0 +1,10 @@
+{
+  "description": "A responsive login experience that welcomes users with a splash screen and provides a clear, easy way to sign in.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
